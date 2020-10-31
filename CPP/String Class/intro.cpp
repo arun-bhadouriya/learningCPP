@@ -41,6 +41,6 @@ int main(){
     cout<<s.compare(s0)<<endl;
 
 
-
+    return 0;
 
 }
